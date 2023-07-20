@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overworld.md",
+                "file": "Nether.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overworld.md",
+                "file": "Nether.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overworld.md",
+                "file": "Nether.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overworld.md"
+                "file": "Nether.md"
               }
             }
           }
@@ -148,19 +148,21 @@
   },
   "active": "e82021e6d580ec78",
   "lastOpenFiles": [
-    "514,.md",
     "Overworld.md",
     "Nether.md",
-    "-203, 64, 639.png",
-    "35, 44, -67 (Nether).png",
-    "35, 44, -67.png",
-    "2023-07-19_09.27.48.png",
-    "394, -13, -432.md",
-    "394, -13, -432.png",
-    "501, -24, -419.png",
-    "520, -32, -441.png",
-    "520, -32, 441.png",
-    "2023-07-19_09.10.13.png",
-    "514, 90, -126.png"
+    "520_-32_-441.png",
+    "514_90_-126.png",
+    "501_-24_-419.png",
+    "394_-13_-432.png",
+    "35_44_-67 (Nether).png",
+    "308_63_670.png",
+    "264_63_640.png",
+    "2145_72_-1450.png",
+    "1998_78_-1264.png",
+    "1919_61_-706.png",
+    "app.py",
+    "New Text Document.txt",
+    "514,.md",
+    "394, -13, -432.md"
   ]
 }

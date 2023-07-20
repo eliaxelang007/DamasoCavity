@@ -5,4 +5,4 @@
 
 #CaveBase 
 35, 44, -67 (Nether)
-![[35, 44, -67 (Nether).png]]
+![](35_44_-67_Nether.png)
