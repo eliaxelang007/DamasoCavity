@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94397d49b9b640e7",
+        "id": "0419b85765aee311",
         "type": "tabs",
         "children": [
           {
-            "id": "b4c17b84c0ca737c",
+            "id": "e82021e6d580ec78",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4c17b84c0ca737c",
+  "active": "e82021e6d580ec78",
   "lastOpenFiles": [
-    "Nether.md",
+    "514,.md",
     "Overworld.md",
+    "Nether.md",
     "-203, 64, 639.png",
     "35, 44, -67 (Nether).png",
     "35, 44, -67.png",
